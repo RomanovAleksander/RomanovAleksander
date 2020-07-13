@@ -1,5 +1,5 @@
-![image](https://github.com/RomanovAleksander/RomanovAleksander/
-dino.gif)
+![image](https://github.com/RomanovAleksander/RomanovAleksander/blob/master/dino.gif)
+
 <!--
 **RomanovAleksander/RomanovAleksander** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
